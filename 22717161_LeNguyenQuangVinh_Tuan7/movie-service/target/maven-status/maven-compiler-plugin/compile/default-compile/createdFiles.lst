@@ -1,0 +1,4 @@
+com\movie\ticket\movie\repository\MovieRepository.class
+com\movie\ticket\movie\entity\Movie.class
+com\movie\ticket\movie\controller\MovieController.class
+com\movie\ticket\movie\MovieServiceApplication.class
